@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "launch": "npx ts-node remove.ts"
+  },
   "dependencies": {
     "playwright": "^1.18.1",
     "ts-node": "^10.4.0"
